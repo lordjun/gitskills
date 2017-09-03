@@ -1,1 +1,2 @@
 Creating a new branch is quick and simple. Good!
+This is a change in my own dev branch
